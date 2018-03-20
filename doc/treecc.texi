@@ -26,11 +26,11 @@ Copyright @copyright{} 2001 Southern Storm Software, Pty Ltd
 
 @vskip 50pt
 
-@center{Rhys Weatherley}
+@center Rhys Weatherley
 
 @vskip 50pt
-@center{Copyright @copyright{} 2001, 2002 Southern Storm Software, Pty Ltd}
-@center{Copyright @copyright{} 2003 Free Software Foundation, Inc.}
+@center Copyright @copyright{} 2001, 2002 Southern Storm Software, Pty Ltd
+@center Copyright @copyright{} 2003 Free Software Foundation, Inc
 @end titlepage
 
 @c -----------------------------------------------------------------------
