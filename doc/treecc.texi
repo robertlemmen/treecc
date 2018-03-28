@@ -1332,8 +1332,6 @@ Because treecc is not aware of how to obtain this information, the
 programmer must supply some additional functions.  @xref{Output APIs},
 for more information.
 
-@xref{Output APIs}, for more information.
-
 @c -----------------------------------------------------------------------
 
 @node Output APIs, C Language, Line Tracking, Top
